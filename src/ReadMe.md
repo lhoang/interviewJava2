@@ -12,9 +12,48 @@ indiquant si le nombre à trouver est respectivement plus grand, plus petit ou �
 L'entier satisfaisant les conditions ou "Impossible"
 
 
-###Exemple
+###Jeux de test
 Entrée :  
 50 +  
 52 -  
 
 Sortie : 51
+
+---
+
+Entrée :   
+25 +  
+35 +  
+99 -  
+90 -  
+38 =  
+
+Sortie : 38
+
+---
+
+Entrée :  
+37 -  
+28 +  
+51 -  
+62 +  
+25 -  
+
+Sortie : Impossible
+
+
+---
+
+Entrée :  
+62 -  
+38 +  
+72 -  
+40 -  
+32 =  
+
+Sortie : Impossible
+
+---
+Entrée :  
+99 +  
+Sortie : 100
