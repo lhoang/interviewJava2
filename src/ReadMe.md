@@ -3,8 +3,7 @@ _From CodinGame_
 
 Retrouver l'entier entre 0 et 100 satisfaisant les conditions.
 
-**Entrée :**  
-Ligne 1 : Nombre de conditions à lire  
+**Entrée :**
 N Lignes : Un entier proposé suivi des signes "+", "-", ou "="
 indiquant si le nombre à trouver est respectivement plus grand, plus petit ou égal à l'entier proposé.
 

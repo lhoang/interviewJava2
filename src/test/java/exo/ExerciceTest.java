@@ -1,3 +1,5 @@
+package exo;
+
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -67,6 +69,6 @@ class ExerciceTest {
         var input = List.of("99 +");
 
 
-        assertThat("").isEqualTo("Impossible");
+        assertThat("").isEqualTo("100");
     }
 }
